@@ -18,4 +18,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Steven Ahlberg
+[linkedin]: https://www.linkedin.com/in/steven-ahlberg-718816422/
